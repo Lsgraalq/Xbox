@@ -1,0 +1,33 @@
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.5);
+  margin-right: 14px;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: #fff;
+  margin-right: 5px;
+}
+
+.navbar-collapse {
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+}
+
+header {
+  border-bottom: 3px solid #777777;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: white;
+}
+
+.btn-secondary {
+  color: r;
+}
+
+body {
+  background-color: #373A3C;
+}
+/*# sourceMappingURL=style.css.map */
